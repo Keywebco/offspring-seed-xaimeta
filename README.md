@@ -8,3 +8,5 @@ Status: PROPOSED, NOT CANON. Public, free, open, static, portable. No subscripti
 
 Files: nova/CONTRACT.md, ring6/CHECKLIST.md, ring6/STATIONS.md.
 Ring of Six stations, Roger's words: Plus, Minus, Null, Past, Present, Future.
+
+Licensed under MIT. See LICENSE.
